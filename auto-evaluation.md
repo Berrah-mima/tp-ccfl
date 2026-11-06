@@ -21,5 +21,5 @@
 ## Ce qui me résiste encore
 
 - Comprendre certaines instructions Python comme `lambda`, `Counter` et `get()`.
-- Écrire certaines fonctions et classes sans aide.
+- Écrire certaines fonctions et classes sans revenir a la doccumentation.
 - Maîtriser les commandes Git, les commits et les archives ZIP.
